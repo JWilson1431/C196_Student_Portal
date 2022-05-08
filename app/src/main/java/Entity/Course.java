@@ -14,37 +14,33 @@ public class Course {
     private String startDate;
     private String endDate;
     private String status;
-    private String courseMentor;
+    private String instructorName;
+    private String instructorPhone;
+    private String instructorEmail;
     private String noteInfo;
     private int termNum;
 
     //constructor
 
 
-    public Course(int courseId, String courseTitle, String startDate, String endDate, String status, String courseMentor, String noteInfo, int termNum) {
+    public Course(int courseId, String courseTitle, String startDate, String endDate, String status, String instructorName, String instructorPhone, String instructorEmail, String noteInfo, int termNum) {
         this.courseId = courseId;
         this.courseTitle = courseTitle;
         this.startDate = startDate;
         this.endDate = endDate;
         this.status = status;
-        this.courseMentor = courseMentor;
+        this.instructorName = instructorName;
+        this.instructorPhone = instructorPhone;
+        this.instructorEmail = instructorEmail;
         this.noteInfo = noteInfo;
         this.termNum = termNum;
     }
 
-    //String to String
+
+
     @Override
     public String toString() {
-        return "Courses{" +
-                "courseId=" + courseId +
-                ", courseTitle='" + courseTitle + '\'' +
-                ", startDate='" + startDate + '\'' +
-                ", endDate='" + endDate + '\'' +
-                ", status='" + status + '\'' +
-                ", courseMentor='" + courseMentor + '\'' +
-                ", noteInfo='" + noteInfo + '\'' +
-                ", termNum=" + termNum +
-                '}';
+        return "Id:" + courseId + " Name:" + courseTitle;
     }
 
     //getters and setters
@@ -88,12 +84,28 @@ public class Course {
         this.status = status;
     }
 
-    public String getCourseMentor() {
-        return courseMentor;
+    public String getInstructorName() {
+        return instructorName;
     }
 
-    public void setCourseMentor(String courseMentor) {
-        this.courseMentor = courseMentor;
+    public void setInstructorName(String instructorName) {
+        this.instructorName = instructorName;
+    }
+
+    public String getInstructorPhone() {
+        return instructorPhone;
+    }
+
+    public void setInstructorPhone(String instructorPhone) {
+        this.instructorPhone = instructorPhone;
+    }
+
+    public String getInstructorEmail() {
+        return instructorEmail;
+    }
+
+    public void setInstructorEmail(String instructorEmail) {
+        this.instructorEmail = instructorEmail;
     }
 
     public String getNoteInfo() {

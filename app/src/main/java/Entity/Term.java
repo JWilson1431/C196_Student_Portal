@@ -23,7 +23,7 @@ public class Term {
     //String to String
     @Override
     public String toString() {
-        return this.termName;
+        return termNum + ") " + termName;
     }
 
     //Getters and setters

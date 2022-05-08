@@ -12,31 +12,31 @@ public class Assessment {
     private String title;
     private String startDate;
     private String endDate;
+    private int courseId;
+    private String assessmentType;
 
     //Constructor
 
-
-    public Assessment(int assessmentId, String title, String startDate, String endDate) {
+    public Assessment(int assessmentId, String title, String startDate, String endDate, int courseId, String assessmentType) {
         this.assessmentId = assessmentId;
         this.title = title;
         this.startDate = startDate;
         this.endDate = endDate;
+        this.courseId = courseId;
+        this.assessmentType = assessmentType;
     }
+
 
     //String to string
 
-
     @Override
     public String toString() {
-        return "Assessments{" +
-                "assessmentId=" + assessmentId +
-                ", title='" + title + '\'' +
-                ", startDate='" + startDate + '\'' +
-                ", endDate='" + endDate + '\'' +
-                '}';
+        return this.assessmentType;
     }
 
+
     //getters and setters
+
 
     public int getAssessmentId() {
         return assessmentId;
@@ -68,6 +68,22 @@ public class Assessment {
 
     public void setEndDate(String endDate) {
         this.endDate = endDate;
+    }
+
+    public int getCourseId() {
+        return courseId;
+    }
+
+    public void setCourseId(int courseId) {
+        this.courseId = courseId;
+    }
+
+    public String getAssessmentType() {
+        return assessmentType;
+    }
+
+    public void setAssessmentType(String assessmentType) {
+        this.assessmentType = assessmentType;
     }
 }
 

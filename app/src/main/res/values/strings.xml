@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="channel_name">my_channel</string>
+    <string name="channel_description">my_channel_description</string>
+
+
+    <string-array name="assessment_type">
+        <item>Objective</item>
+        <item>Performance</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>In progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+        <item>Planned to take</item>
+
+    </string-array>
 </resources>
+

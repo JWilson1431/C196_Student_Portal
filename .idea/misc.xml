@@ -3,12 +3,55 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_course_to_term.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_add_assessment.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_add_edit_term.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_assessment_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_course_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_create_edit_course.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_terms_list.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/activity_terms_main_page.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/assessment_list_items.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/course_list_items.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/term_list_items.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout-land/viewcoursesinterms.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_add_assessment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_add_edit_term.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_assessment_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_course_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_create_edit_course.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_terms_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/activity_terms_main_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/assessment_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/course_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/term_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/C196 Student Portal Janet Wilson/app/src/main/res/layout/viewcoursesinterms.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_assessment.xml" value="0.4" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_course_to_term.xml" value="0.264" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_add_edit_term.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_assessment_list.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_course_list.xml" value="0.2" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_create_course2.xml" value="0.2" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_create_edit_course.xml" value="0.264" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_create_edit_course2.xml" value="0.1" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_terms_list.xml" value="0.23143115942028986" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_terms_main_page.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/assessment_list_items.xml" value="0.176" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/course_list_items.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/term_list_items.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/layout/viewcoursesinterms.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/add_edit_assessment_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/addassessmentmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/addeditcoursemenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/addtermmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/assessmentlist.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/assessmentmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/course_menu.xml" value="0.1515625" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/courselist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/termlistmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/MyApplication/app/src/main/res/menu/terms_main.xml" value="0.1" />
       </map>
     </option>
   </component>

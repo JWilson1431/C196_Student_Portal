@@ -5,15 +5,40 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="C196 Student Portal Janet Wilson"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
+        <receiver
+            android:name=".UI.MyReceiver"
+            android:enabled="true"
+            android:exported="true"></receiver>
+
         <activity
-            android:name=".UI.AddCourseToTerm"
+            android:name=".UI.AssessmentList"
             android:exported="false"
-            android:label="Add course to term"
-            android:parentActivityName=".UI.TermsList"/>
+            android:label="Assessment List"
+            android:parentActivityName=".UI.AddAssessment" />
+        <activity
+            android:name=".UI.AddAssessment"
+            android:exported="false"
+            android:label="Add an assessment"
+            android:parentActivityName=".UI.CourseList" />
+        <activity
+            android:name=".UI.CreateEditCourse"
+            android:exported="false"
+            android:label="Create or edit course"
+            android:parentActivityName=".UI.CourseList" />
+        <activity
+            android:name=".UI.CourseList"
+            android:exported="false"
+            android:label="Course List"
+            android:parentActivityName=".UI.TermsList" />
+        <activity
+            android:name=".UI.ViewCoursesInTerms"
+            android:exported="false"
+            android:label="View courses in a term"
+            android:parentActivityName=".UI.TermsList" />
         <activity
             android:name=".UI.AddEditTerm"
             android:exported="false"
