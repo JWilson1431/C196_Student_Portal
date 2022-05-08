@@ -1,0 +1,3 @@
+# C196_Student_Portal
+
+This is a mobile application designed to be a student portal. It contains terms, courses and assessments. The user can add, edit, or delete terms. Terms contain an ID, a start date and and end date. A term cannot be deleted if it has associated courses. Courses can be added to term. Courses contain a title, ID, start date, end date, status, instructor name, instructor phone number, instructor email, a term number, and a notes section. There is a menu at the top that allows the user to set an alert for either the start date or end date on their phone. They can also share the notes section using this menu. Assessments can be either objective or performance assessments. They contain a title, ID, start date, end date, and assessment type.
